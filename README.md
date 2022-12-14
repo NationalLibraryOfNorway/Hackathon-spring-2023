@@ -2,5 +2,5 @@
 
 On February 17, the DH-lab organizes a hackathon/workshop for developers and others with programming skills.
 
-Den 17. februar arrangerer DH-laben en hackathon/workhsop for utviklere og andre med programmeringskompetanse.
+Den 17. februar arrangerer DH-laben en hackathon/workshop for utviklere og andre med programmeringskompetanse.
 
