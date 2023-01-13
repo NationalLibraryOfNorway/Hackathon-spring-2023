@@ -6,3 +6,5 @@ Den 17. februar arrangerer DH-laben en hackathon/workshop for utviklere og andre
 
 https://www.nb.no/dh-lab/digital-tekstanalyse/
 
+https://nationallibraryofnorway.github.io/Hackathon-spring-2023/
+
