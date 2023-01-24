@@ -1,3 +1,8 @@
+---
+layout: default
+title: Latest info
+nav_order: 1
+---
 # Latest info
 
 On February 17, the DH-lab organizes a hackathon/workshop for developers and others with programming skills.
