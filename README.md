@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Latest info
-nav_order: 1
 ---
 # Latest info
 
